@@ -329,7 +329,7 @@ header{
     }
 
     .T1{
-        font-size: 30px;
+        font-size: 28px;
         left: 30%;
         top: 2.5%;
     }
@@ -353,7 +353,7 @@ header{
     }
 
     .sec1{
-        font-size: 23px;
+        font-size: 21px;
         width: 100%;
         top: 42%;
         left: 16%;
@@ -373,15 +373,8 @@ header{
 
     }
 
-    /* .sec2{
-        left: 39%;
-        top: 5%;
-        position: absolute;
-        width: 100%;
-    } */
-
     .congelado{
-        padding: 10% 0%;
+        padding: 10% 0% 10% 0%;
         flex-direction: column;
         display: flex;
     }
@@ -408,8 +401,8 @@ header{
 
     .sec2{
         width: 100%;
-        font-size: 27px;
-        left: 39%;
+        font-size: 26px;
+        left: 37%;
         top: 8.4px;
         position: relative;
         display: inline;
@@ -422,58 +415,52 @@ header{
 
     }
 
-    /* .movete{
-        top: 390%;
-        position: absolute;
-    } */
 
 
     .fondo3{
-        /* top: 3px; */
        
-        top: 363.5%;
+        top: 374.5%;
         left: 15%;
-        /* position: absolute; */
 
     }
 
     .sec3{
-        top: 374%;
+        top: 385%;
         left: 26%;
-        /* position: relative; */
         font-size: 25px;
     }
 
     .ahumado{
-        top: 389%;
+        top: 400%;
         left: 14%;
+        /* position: relative; */
     }
     
     .lista{
-        top: 445%;
+        top: 455%;
         left: 8%;
         font-size: 25px;
     }
 
     .list{
-        top: 439%;
+        top: 450%;
         left: 14%;
         font-size: 43px;
         
     }
 
     .extra{
-        top: 473%;
+        top: 484%;
         left: 50%;
         width: 45%;
         font-size: 35px;
     }
     .logo22{
-        top: 473%;
+        top: 484%;
         left: 12%;
     }
     .division{
-        top: 500%;
+        top: 511%;
     }
     .cont{
         left: 23%;
@@ -483,7 +470,7 @@ header{
     }
     .datos{
         width: 80%;
-        left: -8%;
+        left: -3%;
         bottom: -10%;
     }
     .wp{

@@ -314,14 +314,10 @@ header{
     .art{
         width: 300px;
         height: 500px;
-        left: -5%;
+        left: 0%;
         top: -38%;
     }
-    .foto{
-        width: 300px;
-        height: 500px;
-    }
-
+   
 
     .logo{
         width: 90px;
@@ -341,7 +337,7 @@ header{
     }
 
     .fondo1{
-       left: 11%;
+       left: 14%;
 
     }
 
@@ -361,7 +357,7 @@ header{
         font-size: 22px;
         width: 100%;
         top: 43%;
-        left: 4%;
+        left: 7%;
     }
 
 
@@ -405,28 +401,28 @@ header{
     } */
 
 
-    .f2{
-        left: 12%;
+    .F2{
+        left: 18%;
         top: -89px;
         position: relative;
     }
     .sec2{
         width: 100%;
-        font-size: 26px;
-        left: 10%;
-        top: 3%;
+        font-size: 24px;
+        left: 16%;
+        top: 4%;
         position: absolute;
         /* display: inline; */
     }
 
     .fondo3{
-        left: 300%;
+        /* left: 309%; */
         position: absolute;
 
     }
 
     .helado{
-        right: 7.5%;
+        right: 3%;
         position: relative;
     }
 
@@ -435,19 +431,19 @@ header{
     .fondo3{
        
         top: 448%;
-        left: 11%;
+        left: 18%;
 
     }
 
     .sec3{
         top: 461%;
-        left: 23%;
+        left: 28%;
         font-size: 25px;
     }
 
     .ahumado{
         top: 480%;
-        left: 9%;
+        left: 15%;
         /* position: relative; */
     }
     

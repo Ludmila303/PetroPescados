@@ -314,7 +314,7 @@ header{
     .art{
         width: 300px;
         height: 500px;
-        left: 2%;
+        left: -5%;
         top: -38%;
     }
     .foto{
@@ -337,7 +337,12 @@ header{
     .fondo-título{
         width: 280px;
         height: 250px;
-       left: 16%;
+       /* left: 11%; */
+    }
+
+    .fondo1{
+       left: 11%;
+
     }
 
 
@@ -353,10 +358,10 @@ header{
     }
 
     .sec1{
-        font-size: 21px;
+        font-size: 22px;
         width: 100%;
-        top: 42%;
-        left: 16%;
+        top: 43%;
+        left: 4%;
     }
 
 
@@ -392,22 +397,27 @@ header{
         left: 50px;
         position: absolute;
     }
-
+/* 
     .fondo2{
-        left: 55px;
-        top: -83px;
-        position: absolute;
-    }
+        left: 15%;
+        top: 10%;
+        position: relative;
+    } */
 
+
+    .f2{
+        left: 12%;
+        top: -89px;
+        position: relative;
+    }
     .sec2{
         width: 100%;
         font-size: 26px;
-        left: 34%;
-        top: 8.4px;
-        position: relative;
-        display: inline;
+        left: 10%;
+        top: 3%;
+        position: absolute;
+        /* display: inline; */
     }
-
 
     .fondo3{
         left: 300%;
@@ -415,52 +425,57 @@ header{
 
     }
 
+    .helado{
+        right: 7.5%;
+        position: relative;
+    }
+
 
 
     .fondo3{
        
-        top: 374.5%;
-        left: 15%;
+        top: 448%;
+        left: 11%;
 
     }
 
     .sec3{
-        top: 385%;
-        left: 26%;
+        top: 461%;
+        left: 23%;
         font-size: 25px;
     }
 
     .ahumado{
-        top: 400%;
-        left: 14%;
+        top: 480%;
+        left: 9%;
         /* position: relative; */
     }
     
     .lista{
-        top: 455%;
-        left: 8%;
+        top: 547%;
+        left: 2%;
         font-size: 25px;
     }
 
     .list{
-        top: 450%;
-        left: 14%;
+        top: 540%;
+        left: 5.8%;
         font-size: 43px;
         
     }
 
     .extra{
-        top: 484%;
+        top: 584%;
         left: 50%;
         width: 45%;
-        font-size: 35px;
+        font-size: 32px;
     }
     .logo22{
-        top: 484%;
+        top: 584%;
         left: 12%;
     }
     .division{
-        top: 511%;
+        top: 620%;
     }
     .cont{
         left: 23%;
@@ -479,7 +494,5 @@ header{
     }
 
 
-    .movete{
-        padding: 20% 0%
-    }
+   
 }
